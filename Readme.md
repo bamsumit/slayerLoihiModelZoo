@@ -5,7 +5,7 @@ This package contains pre trained models using SLAYER-Loihi package from [SLAYER
 For queries contact [Sumit](mailto:bam_sumit@hotmail.com).
 
 ### License & Copyright ###
-Copyright 2018 Sumit Bam Shrestha
+Copyright 2018 Sumit Bam Shrestha.
 SLAYER-Loihi model zoo is free software: you can redistribute it and/or modoify it under the terms of 
 GNU Lesser General Public License, as published by the Free Software Foundation, 
 either version 3 of the License, or (at your option) any later version.
