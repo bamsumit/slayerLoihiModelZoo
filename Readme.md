@@ -6,7 +6,7 @@ For queries contact [Sumit](mailto:bam_sumit@hotmail.com).
 
 ### License & Copyright ###
 Copyright 2019 Sumit Bam Shrestha.
-SLAYER-Loihi model zoo is free software: you can redistribute it and/or modoify it under the terms of 
+SLAYER-Loihi model zoo is free software: you can redistribute it and/or modify it under the terms of 
 GNU Lesser General Public License, as published by the Free Software Foundation, 
 either version 3 of the License, or (at your option) any later version.
 
